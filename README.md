@@ -153,7 +153,7 @@
 
 This project requires the following dependencies:
 
-- **Programming Language:** unknown
+- **Programming Language:** Java
 
 ### 🛠️ Installation
 
@@ -171,15 +171,8 @@ Build Jeu-echec from the source and intsall dependencies:
     ❯ cd Jeu-echec
     ```
 
-3. **Install the dependencies:**
 
-echo 'INSERT-INSTALL-COMMAND-HERE'
 
-### 🤖 Usage
-
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
 
 ### 🧪 Testing
 
