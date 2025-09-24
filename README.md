@@ -59,7 +59,7 @@
 
 ## 🦄 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Jeu d'échec épreuve universitaire de première semestre de première année de BUT informatique </code>
 
 ---
 
@@ -176,9 +176,7 @@ Build Jeu-echec from the source and intsall dependencies:
 
 ### 🧪 Testing
 
-Jeu-echec uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
+pas de test effectuée car ça a été vu au deuxième semestre de 1ere année de BUT informatique 
 
 ---
 
@@ -231,6 +229,7 @@ echo 'INSERT-TEST-COMMAND-HERE'
 </p>
 </details>
 
+<p> Samuel Bonnet <a href="https://github.com/Samuel-BONNET"></p>
 ---
 
 ## 📃 License
