@@ -228,8 +228,6 @@ pas de test effectuée car ça a été vu au deuxième semestre de 1ere année d
    </a>
 </p>
 </details>
-
-<p> Samuel Bonnet <a href="https://github.com/Samuel-BONNET"></p>
 ---
 
 ## 📃 License
