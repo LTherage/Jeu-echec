@@ -91,58 +91,6 @@
     └── Echecs_Ludovic_Alexis_Samuel(1).iml
 ```
 
-### 📚 Project Index
-
-<details open>
-	<summary><b><code>JEU-ECHEC/</code></b></summary>
-	<!-- __root__ Submodule -->
-	<details>
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<div class='directory-path' style='padding: 8px 0; color: #666;'>
-				<code><b>⦿ __root__</b></code>
-			<table style='width: 100%; border-collapse: collapse;'>
-			<thead>
-				<tr style='background-color: #f8f9fa;'>
-					<th style='width: 30%; text-align: left; padding: 8px;'>File Name</th>
-					<th style='text-align: left; padding: 8px;'>Summary</th>
-				</tr>
-			</thead>
-			</table>
-		</blockquote>
-	</details>
-	<!-- Echecs_Ludovic_Alexis_Samuel Submodule -->
-	<details>
-		<summary><b>Echecs_Ludovic_Alexis_Samuel</b></summary>
-		<blockquote>
-			<div class='directory-path' style='padding: 8px 0; color: #666;'>
-				<code><b>⦿ Echecs_Ludovic_Alexis_Samuel</b></code>
-			<table style='width: 100%; border-collapse: collapse;'>
-			<thead>
-				<tr style='background-color: #f8f9fa;'>
-					<th style='width: 30%; text-align: left; padding: 8px;'>File Name</th>
-					<th style='text-align: left; padding: 8px;'>Summary</th>
-				</tr>
-			</thead>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/LTherage/Jeu-echec/blob/master/Echecs_Ludovic_Alexis_Samuel/noir.avif'>noir.avif</a></b></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/LTherage/Jeu-echec/blob/master/Echecs_Ludovic_Alexis_Samuel/findepartie.html'>findepartie.html</a></b></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/LTherage/Jeu-echec/blob/master/Echecs_Ludovic_Alexis_Samuel/Echecs.java'>Echecs.java</a></b></td>
-				</tr>
-				<tr style='border-bottom: 1px solid #eee;'>
-					<td style='padding: 8px;'><b><a href='https://github.com/LTherage/Jeu-echec/blob/master/Echecs_Ludovic_Alexis_Samuel/rapport ludovic, Alexis, Samuel.odt'>rapport ludovic, Alexis, Samuel.odt</a></b></td>
-				</tr>
-			</table>
-		</blockquote>
-	</details>
-</details>
-
----
-
 ## 🚀 Getting Started
 
 ### 📝 Prerequisites
