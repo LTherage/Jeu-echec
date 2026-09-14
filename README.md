@@ -126,19 +126,15 @@
 			</thead>
 				<tr style='border-bottom: 1px solid #eee;'>
 					<td style='padding: 8px;'><b><a href='https://github.com/LTherage/Jeu-echec/blob/master/Echecs_Ludovic_Alexis_Samuel/noir.avif'>noir.avif</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 				<tr style='border-bottom: 1px solid #eee;'>
 					<td style='padding: 8px;'><b><a href='https://github.com/LTherage/Jeu-echec/blob/master/Echecs_Ludovic_Alexis_Samuel/findepartie.html'>findepartie.html</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 				<tr style='border-bottom: 1px solid #eee;'>
 					<td style='padding: 8px;'><b><a href='https://github.com/LTherage/Jeu-echec/blob/master/Echecs_Ludovic_Alexis_Samuel/Echecs.java'>Echecs.java</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 				<tr style='border-bottom: 1px solid #eee;'>
 					<td style='padding: 8px;'><b><a href='https://github.com/LTherage/Jeu-echec/blob/master/Echecs_Ludovic_Alexis_Samuel/rapport ludovic, Alexis, Samuel.odt'>rapport ludovic, Alexis, Samuel.odt</a></b></td>
-					<td style='padding: 8px;'>Code>❯ REPLACE-ME</code></td>
 				</tr>
 			</table>
 		</blockquote>
@@ -176,7 +172,7 @@ Build Jeu-echec from the source and intsall dependencies:
 
 ### 🧪 Testing
 
-pas de test effectuée car ça a été vu au deuxième semestre de 1ere année de BUT informatique 
+pas de test effectuée car ça a été vu au deuxième semestre de 1ere année de BUT informatique
 
 ---
 
